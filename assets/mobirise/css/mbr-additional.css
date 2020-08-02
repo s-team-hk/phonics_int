@@ -710,6 +710,17 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s6u7x4bfgY {
+  padding-top: 225px;
+  padding-bottom: 210px;
+  background-image: url("../../../assets/images/app-intro-gif.gif");
+}
+.cid-s6u7x4bfgY P {
+  color: #767676;
+}
+.cid-s6u7x4bfgY H1 {
+  color: #eef74a;
+}
 .cid-s6u1U1nVk8 {
   background: #ffffff;
 }
@@ -719,29 +730,6 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s6u1U1nVk8 .video-block {
-    width: 100% !important;
-  }
-}
-.cid-s6tqjnQ1ua {
-  background: #ffffff;
-}
-.cid-s6tqjnQ1ua .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-s6tqjnQ1ua .mbr-figure {
-  margin: 0 auto;
-}
-.cid-s6tqjnQ1ua figcaption {
-  position: relative;
-}
-.cid-s6tqjnQ1ua figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s6tqjnQ1ua .image-block {
     width: 100% !important;
   }
 }
