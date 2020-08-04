@@ -1,3 +1,3 @@
 # phonics_int
-GitHub Pages
+GitHub Pages;
 s-team-hk.github.io/phonics_int
